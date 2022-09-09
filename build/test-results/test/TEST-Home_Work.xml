@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Home_Work" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-09-09T17:11:41" hostname="DESKTOP-UFTBH2S" time="275.518">
+  <properties/>
+  <testcase name="testGmail" classname="Home_Work" time="275.518"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[вер. 09, 2022 8:12:05 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
